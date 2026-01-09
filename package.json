@@ -1,0 +1,20 @@
+{
+  "name": "cse-341-proyect1",
+  "version": "1.0.0",
+  "description": "My First Proyect",
+  "homepage": "https://github.com/izelomabarak/cse-341-proyect1#readme",
+  "bugs": {
+    "url": "https://github.com/izelomabarak/cse-341-proyect1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izelomabarak/cse-341-proyect1.git"
+  },
+  "license": "ISC",
+  "author": "Jose Luis Izelo Mabarak",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
