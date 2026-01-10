@@ -1,11 +1,12 @@
 const express = require('express');
+const usersController = require('./controllers/users');
 
 const mongodb = require('./data/database');
 const app = express();
 
 const port = process.env.PORT || 3000;
 
-app.use('/', require('./routes'), res.status(200).json("Hello World"));
+app.use('/', require('./routes'), usersController.home);
 
 mongodb.initDb((err) => {
     if (err) {
