@@ -1,20 +1,23 @@
 {
 "contact1": {
-    "name": "Alfonso Izelo",
+    "firstName": "Alfonso Izelo",
+    "lastName": "Izelo",
     "email": "josealfonsoim.lds@gmail.com",
-    "favoritecolor": "green",
-    "birday": "10/05/2008"
+    "favoriteColor": "green",
+    "birthday": "10/05/2008"
 },
-"contact1": {
-    "name": "Jose Izelo",
+"contact2": {
+    "firstName": "Jose",
+    "lastName": "Izelo",
     "email": "momox.lds@gmail.com",
-    "favoritecolor": "blue",
-    "birday": "12/07/1978"
+    "favoriteColor": "blue",
+    "birthday": "12/07/1978"
 },
-"contact1": {
-    "name": "Jezabel Mabarak",
+"contact3": {
+    "firstName": "Jezabel",
+    "lastName": "Mabarak",
     "email": "jezaami.lds@gmail.com",
-    "favoritecolor": "cyam",
-    "birday": "10/05/2008"
+    "favoriteColor": "cyam",
+    "birthday": "9/07/1982"
 }
 }
