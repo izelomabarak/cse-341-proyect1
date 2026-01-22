@@ -29,7 +29,7 @@ PUT http://localhost:3000/users/696992254effa511e0807fcc HTTP/1.1
 Content-Type: application/json
 
 {
-    "firstName": "Alfonso",
+    "firstName": "Alfonso Izelo",
     "lastName": "Izelo",
     "email": "josealfonsoim.lds@gmail.com",
     "favoriteColor": "red",
@@ -37,6 +37,6 @@ Content-Type: application/json
 }
 
 ### Delet One
-DELETE http://localhost:3000/users/696ab8ee629038cdc9bf2c2a
+DELETE http://localhost:3000/users/696afbe69178f213663e515d
 
 // PRODUCTION Deploy ### GET https://project-1-tdhp.onrender.com/ ### GET https://project-1-tdhp.onrender.com/users ### GET https://project-1-tdhp.onrender.com/users/69615eaefa7e5002b8398223 ### GET https://project-1-tdhp.onrender.com/users/69615f57fa7e5002b8398224 ### GET https://project-1-tdhp.onrender.com/users/69615f68fa7e5002b8398225  
